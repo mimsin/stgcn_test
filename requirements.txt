@@ -1,0 +1,7 @@
+matplotlib==3.5
+numpy
+pandas==1.5.3
+torch
+torch_geometric
+tqdm==4.65.0
+tensorboard
